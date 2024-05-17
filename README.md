@@ -15,7 +15,7 @@ bugs, suggestions, and feature requests should be made upstream in the
 [Substrate](https://github.com/paritytech/polkadot-sdk/tree/master/substrate)
 repository.
 
-## Getting Started
+## Getting Started 
 
 Depending on your operating system and Rust version, there might be additional
 packages required to compile this template. Check the
